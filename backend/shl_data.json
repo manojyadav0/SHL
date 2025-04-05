@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Cognitive Ability Test",
+      "description": "Assesses general mental ability including logical, numerical, and verbal reasoning.",
+      "url": "https://www.shl.com/en/assessments/cognitive-ability/"
+    },
+    {
+      "name": "Personality Questionnaire",
+      "description": "Measures behavioral style at work and predicts performance.",
+      "url": "https://www.shl.com/en/assessments/personality/"
+    },
+    {
+      "name": "Situational Judgment Test",
+      "description": "Evaluates judgment and decision-making in job-related situations.",
+      "url": "https://www.shl.com/en/assessments/sjt/"
+    }
+  ]
+  
