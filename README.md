@@ -19,19 +19,26 @@ Streamlit
 1. Clone this repository
 
 git clone https://github.com/manojyadav0/SHL.git
+
 cd SHL
+
 2. Install dependencies
 
 pip install -r requirements.txt
+
 3. Scrape assessment data
 
 python3 utils/scraper.py
+
 4. Generate embeddings
 
 python3 backend/embeddings.py
+
 5. Run FastAPI backend
 
+
 uvicorn api:app --reload
+
 6. Run frontend UI
 
 streamlit run frontend.py
