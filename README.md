@@ -18,8 +18,8 @@ Streamlit
 📦 How to Run
 1. Clone this repository
 
-git clone https://github.com/your-username/shl-recommender.git
-cd shl-recommender
+git clone https://github.com/manojyadav0/SHL.git
+cd SHL
 2. Install dependencies
 
 pip install -r requirements.txt
